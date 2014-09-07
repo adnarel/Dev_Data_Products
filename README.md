@@ -1,8 +1,8 @@
 Dev_Data_Products
 =================
 
-Course Project
-devdataprod-005
+Course Project, 
+devdataprod-005, 
 Sept 2014
 
 This Repository has the `ui.R` and `server.R` codes for the Course Project.
